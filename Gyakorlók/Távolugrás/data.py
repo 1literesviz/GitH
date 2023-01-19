@@ -1,0 +1,2 @@
+nevek=[]
+ugrasok=[]

@@ -1,0 +1,101 @@
+Város;Ország;Lakosság
+Abidjan;Elefántcsontpart;1900
+Ahmedabad;India;2295
+Alexandria;Egyiptom;3295
+Algír;Algéria;1722
+Ankara;Törökország;2559
+Anshan;Kína;1278
+Athén;Görögország;748
+Atlanta;USA;420
+Bagdad;Irak;3845
+Bangalore;India;3302
+Baoji;Kína;341
+Barcelona;Spanyolország;1644
+Belo Horizonte;Brazília;2339
+Berlin;Németország;3438
+Birmingham;Nagy-Britannia;1009
+Bogotá;Kolumbia;5026
+Bombay;India;9926
+Boston;USA;551
+Buenos Aires;Argentína;2924
+Calcutta;India;4400
+Caracas;Venezuela;1247
+Casablanca;Marokkó;2500
+Changzhou;Kína;2110
+Chengdu;Kína;2810
+Chicago;USA;2768
+Chongqing;Kína;2980
+Ciudad de México;Mexikó;9191
+Cleveland;USA;503
+Dalian;Kína;2400
+Dallas;USA;1022
+Dandong;Kína;545
+Delhi;India;7207
+Detroit;USA;1012
+Dhaka;Banglades;3638
+Guadalajara;Mexikó;2245
+Hangzhou;Kína;1290
+Hanoi;Vietnam;3056
+Harbin;Kína;2830
+Ho Si Minh-város;Vietnam;3924
+Houston;USA;1690
+Hyderabad;India;3146
+Istambul;Törökország;6620
+Izmir;Törökország;2139
+Jakarta;Indonézia;8223
+Jilin;Kína;1138
+Jinan;Kína;1359
+Jinzhou;Kína;599
+Kairó;Egyiptom;6663
+Kanton;Kína;3580
+Karachi;Pakisztán;5181
+Kijev;Ukrajna;2646
+Kinshasa;Kongói Dem.Közt.;2778
+Krung Thep/Bangkok;Thaiföld;5876
+Lahore;Pakisztán;2953
+Lima;Peru;5008
+London;Nagy-Britannia;4300
+Los Angeles;USA;9480
+Madras;India;3481
+Madrid;Spanyolország;3010
+Manchester;Nagy-Britannia;435
+Manila;Fülöp-szigetek;1601
+Melbourne;Ausztrália;75
+Miami;USA;371
+Monterrey;Mexikó;1916
+Montreal;Kanada;1018
+Moszka;Oroszország;8801
+Mukden;Kína;4540
+Nanjing;Kína;2500
+New York;USA;7312
+Párizs;Franciaország;2175
+Peking;Kína;7000
+Philadelphia;USA;1553
+Porto Alegre;Brazília;1371
+Puszan;Koreai Közt.;3798
+Qingdao;Kína;2060
+Rangoon;Mianmar;2513
+Rio de Janeiro;Brazília;6011
+Róma;Olaszország;2804
+San Francisco;USA;729
+Sanghai;Kína;7830
+Santiago;Chile;4628
+Sao Paulo;Brazília;10997
+Seattle;USA;520
+Singapore;Szingapúr;2530
+Sydney;Ausztrália;58
+Szentpétervár;Oroszország;4468
+Szöul;Koreai Közt.;10613
+Tajpei;Kína;2696
+Teherán;Irán;6620
+Tianjin;Kína;5770
+Tokio;Japán;8324
+Toronto;Kanada;612
+Victoria(Hongkong);Kína;502
+Washington;USA;585
+Wenzhou;Kína;516
+Wuhan;Kína;3750
+Xi'an;Kína;2760
+Yingkou;Kína;423
+Yokohama;Japán;3251
+Zaozhuang;Kína;1592
